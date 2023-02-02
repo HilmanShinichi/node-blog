@@ -160,10 +160,7 @@ app.post('/login', (req, res) => {
         res.redirect('/login');
       }
         });
-        
-        // Hapus code di bawah
  
-        // Hapus code di atas
 
       } else {
         res.redirect('/login');
